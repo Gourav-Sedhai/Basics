@@ -1,2 +1,2 @@
 # Basics
-Some basic programs 
+Some basic programs using python.
